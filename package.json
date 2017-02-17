@@ -1,0 +1,29 @@
+{
+  "name": "skeleton", // FILL
+  "version": "1.0.0",
+  "description": "description", // FILL
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mp"
+  ],
+  "author": "richellyitalo", // REPLACE WITH YOUR NAME
+  "license": "ISC",
+  "devDependencies": {
+    "event-stream": "^3.3.4",
+    "events-stream": "^0.2.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.2",
+    "gulp-clean-dest": "^0.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^1.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-modify-css-urls": "^0.2.2",
+    "gulp-uglify": "^2.0.1",
+    "jshint": "^2.9.4",
+    "run-sequence": "^1.2.2"
+  }
+}

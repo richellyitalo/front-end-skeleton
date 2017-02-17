@@ -1,0 +1,19 @@
+/* MAIN STYLE */
+
+/* NEW FEATURES BOOTSTRAP */
+/* working with '.row' */
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+    .no-gutters > .col,
+    .no-gutters > [class*="col-"] {
+        padding-right: 0;
+        padding-left: 0;
+    }
+.no-gutters-right {
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-right: 0;
+}
