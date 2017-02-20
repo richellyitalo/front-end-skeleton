@@ -1,7 +1,7 @@
 {
-  "name": "skeleton", // FILL
+  "name": "ProjectName",
   "version": "1.0.0",
-  "description": "description", // FILL
+  "description": "description",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "keywords": [
     "mp"
   ],
-  "author": "richellyitalo", // REPLACE WITH YOUR NAME
+  "author": "richellyitalo",
   "license": "ISC",
   "devDependencies": {
     "event-stream": "^3.3.4",
