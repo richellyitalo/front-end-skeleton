@@ -1,10 +1,10 @@
 {
-  "name": "Name", // FILL
-  "description": "Description", // FILL
+  "name": "Name",
+  "description": "Description",
   "main": "style.css",
   "keywords": [],
   "authors": [
-    "{YOURNAME}" // FILL
+    "{YOURNAME}"
   ],
   "license": "MIT",
   "homepage": "",
