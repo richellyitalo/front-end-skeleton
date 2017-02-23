@@ -17,3 +17,45 @@
     padding-right: 0;
     padding-right: 0;
 }
+.with-glue {
+    margin-right: 3px;
+    margin-left: 3px;
+}
+    .with-glue > .col,
+    .with-glue > [class*="col-"] {
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+.img-force-responsive {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.text-center-md {
+    text-align: left;
+}
+/*only xs*/
+@media (max-width: 767px) {
+    .text-center-xs {
+        text-align: center;
+    }
+}
+/*only sm*/
+@media (min-width: 768px) and (max-width: 991px) {
+    .text-center-sm {
+        text-align: center;
+    }
+}
+/*only md*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    .text-center-md {
+        text-align: center;
+    }
+}
+/*only lg*/
+@media (min-width: 1200px) {
+    .text-center-lg {
+        text-align: center;
+    }
+}
