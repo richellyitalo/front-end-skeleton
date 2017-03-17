@@ -1,6 +1,6 @@
 {
-  "name": "Name",
-  "description": "Description",
+  "name": "name",
+  "description": "description",
   "main": "style.css",
   "keywords": [],
   "authors": [
